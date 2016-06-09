@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Default Connection</comment>
+<entry key="last_connected">1462831081106</entry>
+<entry key="restore_state">true</entry>
+<entry key="sid">xe</entry>
+<entry key="displayName">system@localhost/xe</entry>
+<entry key="sshEnabled">false</entry>
+<entry key="useCustomConnectionString">false</entry>
+<entry key="useClient">false</entry>
+<entry key="forceRestore">true</entry>
+<entry key="sn_sid">SID</entry>
+<entry key="port">1521</entry>
+<entry key="userName">system</entry>
+<entry key="last_java_project">/Conexion</entry>
+<entry key="autoCommit">false</entry>
+<entry key="host">localhost</entry>
+<entry key="sshPassword">OPNZMY0FdGY=</entry>
+<entry key="color">123 123 123</entry>
+<entry key="uuid">8a8a8742-36c8-48e1-8540-3cd5846ce545</entry>
+<entry key="adapterId">ORACLE</entry>
+<entry key="customJdbcConnectString">jdbc:oracle:thin:@localhost:1521:xe</entry>
+</properties>
